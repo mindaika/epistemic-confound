@@ -1,0 +1,368 @@
+Script started on May  7, 2014 09:23:24 AM PDT
+sh-3.2$ blitz -g os
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Initializing Thread Scheduler...
+-------------GAMING TEST-------------
+A Backgammon requests 4
+------------------------------Number of dice now avail = 8
+A Backgammon proceeds with 4
+------------------------------Number of dice now avail = 4
+B Backgammon requests 4
+------------------------------Number of dice now avail = 4
+B Backgammon proceeds with 4
+------------------------------Number of dice now avail = 0
+D Risk requests 5
+------------------------------Number of dice now avail = 0
+A Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 4
+B Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 8
+E Monopoly requests 2
+------------------------------Number of dice now avail = 8
+F Monopoly requests 2
+------------------------------Number of dice now avail = 8
+D Risk proceeds with 5
+------------------------------Number of dice now avail = 3
+A Backgammon requests 4
+------------------------------Number of dice now avail = 3
+B Backgammon requests 4
+------------------------------Number of dice now avail = 3
+C Risk requests 5
+------------------------------Number of dice now avail = 3
+G Pictionary requests 1
+------------------------------Number of dice now avail = 3
+H Pictionary requests 1
+------------------------------Number of dice now avail = 3
+E Monopoly proceeds with 2
+------------------------------Number of dice now avail = 1
+D Risk releases and adds back 5
+------------------------------Number of dice now avail = 6
+F Monopoly proceeds with 2
+------------------------------Number of dice now avail = 4
+D Risk requests 5
+------------------------------Number of dice now avail = 4
+E Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 6
+A Backgammon proceeds with 4
+------------------------------Number of dice now avail = 2
+F Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 4
+E Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon proceeds with 4
+------------------------------Number of dice now avail = 0
+A Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 4
+F Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 8
+A Backgammon requests 4
+------------------------------Number of dice now avail = 8
+C Risk proceeds with 5
+------------------------------Number of dice now avail = 3
+B Backgammon requests 4
+------------------------------Number of dice now avail = 3
+G Pictionary proceeds with 1
+------------------------------Number of dice now avail = 2
+C Risk releases and adds back 5
+------------------------------Number of dice now avail = 7
+H Pictionary proceeds with 1
+------------------------------Number of dice now avail = 6
+G Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 7
+C Risk requests 5
+------------------------------Number of dice now avail = 7
+D Risk proceeds with 5
+------------------------------Number of dice now avail = 2
+H Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 3
+G Pictionary requests 1
+------------------------------Number of dice now avail = 3
+E Monopoly proceeds with 2
+------------------------------Number of dice now avail = 1
+D Risk releases and adds back 5
+------------------------------Number of dice now avail = 6
+H Pictionary requests 1
+------------------------------Number of dice now avail = 6
+F Monopoly proceeds with 2
+------------------------------Number of dice now avail = 4
+E Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 6
+D Risk requests 5
+------------------------------Number of dice now avail = 6
+A Backgammon proceeds with 4
+------------------------------Number of dice now avail = 2
+F Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 4
+E Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon proceeds with 4
+------------------------------Number of dice now avail = 0
+A Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 4
+F Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 8
+A Backgammon requests 4
+------------------------------Number of dice now avail = 8
+C Risk proceeds with 5
+------------------------------Number of dice now avail = 3
+B Backgammon requests 4
+------------------------------Number of dice now avail = 3
+G Pictionary proceeds with 1
+------------------------------Number of dice now avail = 2
+C Risk releases and adds back 5
+------------------------------Number of dice now avail = 7
+H Pictionary proceeds with 1
+------------------------------Number of dice now avail = 6
+G Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 7
+C Risk requests 5
+------------------------------Number of dice now avail = 7
+D Risk proceeds with 5
+------------------------------Number of dice now avail = 2
+H Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 3
+G Pictionary requests 1
+------------------------------Number of dice now avail = 3
+E Monopoly proceeds with 2
+------------------------------Number of dice now avail = 1
+D Risk releases and adds back 5
+------------------------------Number of dice now avail = 6
+H Pictionary requests 1
+------------------------------Number of dice now avail = 6
+F Monopoly proceeds with 2
+------------------------------Number of dice now avail = 4
+E Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 6
+D Risk requests 5
+------------------------------Number of dice now avail = 6
+A Backgammon proceeds with 4
+------------------------------Number of dice now avail = 2
+F Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 4
+E Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon proceeds with 4
+------------------------------Number of dice now avail = 0
+A Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 4
+F Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 8
+A Backgammon requests 4
+------------------------------Number of dice now avail = 8
+C Risk proceeds with 5
+------------------------------Number of dice now avail = 3
+B Backgammon requests 4
+------------------------------Number of dice now avail = 3
+G Pictionary proceeds with 1
+------------------------------Number of dice now avail = 2
+C Risk releases and adds back 5
+------------------------------Number of dice now avail = 7
+H Pictionary proceeds with 1
+------------------------------Number of dice now avail = 6
+G Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 7
+C Risk requests 5
+------------------------------Number of dice now avail = 7
+D Risk proceeds with 5
+------------------------------Number of dice now avail = 2
+H Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 3
+G Pictionary requests 1
+------------------------------Number of dice now avail = 3
+E Monopoly proceeds with 2
+------------------------------Number of dice now avail = 1
+D Risk releases and adds back 5
+------------------------------Number of dice now avail = 6
+H Pictionary requests 1
+------------------------------Number of dice now avail = 6
+F Monopoly proceeds with 2
+------------------------------Number of dice now avail = 4
+E Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 6
+D Risk requests 5
+------------------------------Number of dice now avail = 6
+A Backgammon proceeds with 4
+------------------------------Number of dice now avail = 2
+F Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 4
+E Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon proceeds with 4
+------------------------------Number of dice now avail = 0
+A Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 4
+F Monopoly requests 2
+------------------------------Number of dice now avail = 4
+B Backgammon releases and adds back 4
+------------------------------Number of dice now avail = 8
+C Risk proceeds with 5
+------------------------------Number of dice now avail = 3
+G Pictionary proceeds with 1
+------------------------------Number of dice now avail = 2
+C Risk releases and adds back 5
+------------------------------Number of dice now avail = 7
+H Pictionary proceeds with 1
+------------------------------Number of dice now avail = 6
+G Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 7
+C Risk requests 5
+------------------------------Number of dice now avail = 7
+D Risk proceeds with 5
+------------------------------Number of dice now avail = 2
+H Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 3
+G Pictionary requests 1
+------------------------------Number of dice now avail = 3
+E Monopoly proceeds with 2
+------------------------------Number of dice now avail = 1
+D Risk releases and adds back 5
+------------------------------Number of dice now avail = 6
+H Pictionary requests 1
+------------------------------Number of dice now avail = 6
+F Monopoly proceeds with 2
+------------------------------Number of dice now avail = 4
+E Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 6
+C Risk proceeds with 5
+------------------------------Number of dice now avail = 1
+F Monopoly releases and adds back 2
+------------------------------Number of dice now avail = 3
+G Pictionary proceeds with 1
+------------------------------Number of dice now avail = 2
+C Risk releases and adds back 5
+------------------------------Number of dice now avail = 7
+H Pictionary proceeds with 1
+------------------------------Number of dice now avail = 6
+G Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 7
+H Pictionary releases and adds back 1
+------------------------------Number of dice now avail = 8
+
+*****  A 'wait' instruction was executed and no more interrupts are scheduled... halting emulation!  *****
+
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 769743
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 769743
+sh-3.2$ vi main.c      Main.c
+[24;1H[?1h="Main.c" 252 lines, 6406 characters [H[2Jcode Main
+-- OS Class: Project 3
+[8C--
+-- <YOUR NAME HERE>
+[8C-- <Randall Sewell>
+[8C-----------------------------  Main  ---------------------------------[8;9Hfunction main ()
+[8DInitializeScheduler()[10;17H-- print("-------------HAIRING TEST-------------\n")[11;17H-- BarberTest()
+[15Dprint("-------------GAMING TEST-------------\n")[13;17HGameTest()
+[8CendFunction[16;9H-----------------------------  Task 1: Implement the Sleeping Barber Pro
+blem  ---------------------------------[19;9Hconst
+   CHAIRS = 4[6C-- Chairs. Not Eames.[22;9Hvar
+     haircuttees:    Semaphore = new Semaphore -- aka 'barbers'[H[23B"Main.c" 252 lines, 6406 characters[H
+[7C
+
+
+
+
+
+[7C
+
+[7C[1L[14B[K[10;1H[@C[1L[14B[K[10;1H[@CcC[K[14B:q!
+[J[?1l>sh-3.2$ vim Main.c
+7[?47h[?1h=[2;1H½[6n[1;1H  [1;1H[1;24r[m[H[2J[24;1H"Main.c" 252L, 6406C[>c[1;1Hcode Main[2;9H-- OS Class: Project 3[3;9H--[4;9H-- <YOUR NAME HERE>[5;9H-- <Randall Sewell>[6;9H-----------------------------  Main  ---------------------------------[8;9Hfunction main ()[9;17HInitializeScheduler()[10;17H-- print("-------------HAIRING TEST-------------\n")[11;17H-- BarberTest()[12;17Hprint("-------------GAMING TEST-------------\n")[13;17HGameTest()[14;9HendFunction[16;9H-----------------------------  Task 1: Implement the Sleeping Barber Proo[17;1Hblem  ---------------------------------[19;9Hconst[20;17HCHAIRS = 4      -- Chairs. Not Eames.[22;9Hvar[23;17Hhaircuttees:    Semaphore = new Semaphore -- aka 'barbers'[24;63H1,1[11CTop[1;1H[24;63H2,1-8[2;8H[24;63H3[3;8H[24;63H4[4;8H[24;63H5[5;8H[24;63H6[6;8H[24;63H7,0-1[7;1H[24;63H8,1-8[8;8H[24;63H9[9;8H[24;63H10,1-8[10;8H[24;66H2-16[10;16H[24;66H3-17[10;17H[24;66H4-18[10;18H[24;66H3-17[10;17H- print("-[12CHAIRING TEST-[12C\n")[10;68H[K[10;17H print("-[12CHAIRING TEST-[12C\n")[10;67H[K[10;17Hprint("-[12CHAIRING TEST-[12C\n")[10;66H[K[10;17H[24;64H1[11;17H- BarberTest() [11;17H BarberTest() [11;17HBarberTest() [11;17H[24;64H2[12;17H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H12,3-17[7CTop[12;17H-print("[12C-GAMING TEST[12C-\n")[24;66H4-18[12;18H-print("[12C-GAMING TEST[12C-\n")[24;66H5-19[12;19H[24;1H[K[12;18H[24;63H12,4-18[7CTop[12;18H[24;64H3[13;18H[24;66H3-17[13;17H[24;1H[1m-- INSERT --[m[24;63H[K[24;63H13,3-17[7CTop[13;17H-GameTest()[24;66H4-18[13;18H-GameTest()[24;66H5-19[13;19H[24;1H[K[13;18H[24;63H13,4-18[7CTop[13;18H[24;63H[K[24;1H:wq"Main.c" 252L, 6404C written
+[?1l>[2J[?47l8sh-3.2$ make
+kpl Main -unsafe
+asm Main.s
+lddd System.o List.o Thread.o Switch.o Synch.o Main.o Runtime.o -o os
+sh-3.2$ makevim Main.c[1P Main.cblitz -g os
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Initializing Thread Scheduler...
+-------------HAIRING TEST-------------
+Create some haircutters and haircuttees
+Create some haircutters with wait times
+Stage Left: Sweeney
+Barber: Sweeney is about to not murder or rob anyone.
+Create some haircuttees with wait times
+Stage Left: Todd
+Barber: Todd is about to not murder or rob anyone.
+Stage Left: James
+Barber: James is about to not murder or rob anyone.
+Victim/Client: Tod
+Victim/Client: Denis
+Victim/Client: Michael
+Sweeney is totally not murdering or robbing anyone.
+Victim/Client: Len
+Todd is totally not murdering or robbing anyone.
+Todd is done not murdering or robbing anyone.
+Todd is totally not murdering or robbing anyone.
+Victim/Client: George
+Victim/Client: Timothy
+Victim/Client: Alun
+Victim/Client: Ben
+There are no seats, so Ben is bugging out. Lucky them!
+Victim/Client: Kelsey
+Victim/Client: Brian
+Victim/Client: Bryn
+Victim/Client: Michael
+Victim/Client: David
+Victim/Client: Johnny
+Tod is getting they hair did.
+Sweeney is done not murdering or robbing anyone.
+Denis is getting they hair did.
+Michael is getting they hair did.
+Victim/Client: Bob
+Victim/Client: Dave
+There are no seats, so Kelsey is bugging out. Lucky them!
+Victim/Client: Ray
+There are no seats, so Brian is bugging out. Lucky them!
+Victim/Client: Thomas
+There are no seats, so Bryn is bugging out. Lucky them!
+Todd is done not murdering or robbing anyone.
+There are no seats, so Michael is bugging out. Lucky them!
+There are no seats, so David is bugging out. Lucky them!
+There are no seats, so Johnny is bugging out. Lucky them!
+Sweeney is totally not murdering or robbing anyone.
+Len is getting they hair did.
+Sweeney is done not murdering or robbing anyone.
+There are no seats, so Dave is bugging out. Lucky them!
+There are no seats, so Ray is bugging out. Lucky them!
+James is totally not murdering or robbing anyone.
+James is done not murdering or robbing anyone.
+George is getting they hair did.
+Timothy is getting they hair did.
+Todd is totally not murdering or robbing anyone.
+Todd is done not murdering or robbing anyone.
+Sweeney is totally not murdering or robbing anyone.
+Sweeney is done not murdering or robbing anyone.
+James is totally not murdering or robbing anyone.
+James is done not murdering or robbing anyone.
+Alun is getting they hair did.
+Bob is getting they hair did.
+Todd is totally not murdering or robbing anyone.
+Todd is done not murdering or robbing anyone.
+Thomas is getting they hair did.
+
+*****  A 'wait' instruction was executed and no more interrupts are scheduled... halting emulation!  *****
+
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 173042
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 173042
+sh-3.2$ quit
+sh: quit: command not found
+sh-3.2$ exit
+exit
+
+script done on May  7, 2014 09:24:35 AM PDT
